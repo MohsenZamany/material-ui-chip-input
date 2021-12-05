@@ -1,5 +1,5 @@
 {
-  "name": "material-ui-chip-input",
+  "name": "@arshan/material-ui-chip-input",
   "version": "1.1.1",
   "typings": "typings/index.d.ts",
   "description": "A chip input field using Material-UI.",
